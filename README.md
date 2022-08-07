@@ -3,3 +3,5 @@ Tags: `Group project` `Python` `OOP`
 <hr>
 By: Guillaume
 <hr>
+Weight: 5
+<hr>
