@@ -18,3 +18,6 @@ Project to be done in teams of 2 people (your team: Felix Yeboah, Kay Osei-Tutu)
 ## Background Context
 ### Welcome to the AirBnB clone project!
 Before starting, please read the **AirBnB** concept page.
+
+
+#### First step: Write a command interpreter to manage your AirBnB objects.
