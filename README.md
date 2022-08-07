@@ -11,3 +11,4 @@ Project to be done in teams of 2 people (your team: Felix Yeboah, Kay Osei-Tutu)
 ## Concepts
 *For this project, we expect you to look at these concepts:*
 - [Python packages](https://alx-intranet.hbtn.io/concepts/66)
+- [AirBnB clone](https://alx-intranet.hbtn.io/concepts/74)
